@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on own [e-commerce engine in React](https://github.com/pietroczuk/shnSSR)
 
-- 🌱 I’m currently learning **Next.js, Jest**
+- 🌱 I’m currently learning **Next.js, Jest, Electron**
 
 - 📫 Say hello **andrzejpietroczuk@gmail.com**
 
